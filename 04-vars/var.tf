@@ -1,13 +1,14 @@
 variable "sample" {
-  default = "Hello World"
+  default = 100
 }
 
 output "sample" {
-  value = "var.sample"
+  value = var.sample
 }
 
+/*
 variable "sample1" {}
 
 output "sample1" {
   value = "var.sample1"
-}
+}*/

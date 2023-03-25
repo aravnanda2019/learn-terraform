@@ -1,1 +1,2 @@
-sample1 = "Hello Sample1"
+/*
+sample1 = "Hello Sample1"*/
